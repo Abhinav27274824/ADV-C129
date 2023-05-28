@@ -1,0 +1,37 @@
+#note-heading-a {
+    font-size: 17px;
+    color: black;
+    font-weight: bold;
+}
+
+#note-heading-b {
+    font-size: 15px;
+    color:black;
+    font-weight: bold;
+}
+
+#name-heading {
+    width: 100%;
+    font-size: 35px;
+}
+
+body {
+    background-size: cover;
+    font-family: 'Pangolin', cursive;
+}
+
+button {
+    margin: 17px;
+    font-family: 'Pangolin', cursive;
+    width: 120px;
+    font-size: 30px;
+}
+
+canvas {
+    border-width: 5px;
+    border-style: solid;
+    border-color: azure;
+    background-color: black;
+    border-radius: 20px;
+    margin-top: 150px;
+}
